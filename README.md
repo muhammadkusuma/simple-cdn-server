@@ -23,8 +23,8 @@ This project is a lightweight Node.js Express server designed to act as a simple
 
     ```bash
     # If you have it in a Git repository
-    git clone [https://github.com/muhammadkusuma/simple-cdn-server.git](https://github.com/muhammadkusuma/simple-cdn-server.git)
-    cd your-repo-name
+    git clone https://github.com/muhammadkusuma/simple-cdn-server.git
+    cd simple-cdn-server
 
     # If you downloaded the files, navigate to the project directory
     cd path/to/simple-cdn-server
